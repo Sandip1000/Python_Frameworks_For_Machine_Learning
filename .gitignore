@@ -1,2 +1,3 @@
 datafiles\Fashion_MNIST/
 *.csv
+*.npy
